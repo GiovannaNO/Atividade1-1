@@ -1,0 +1,20 @@
+Pedro Vitor Garcia Moura (perfil:PedroLeGarcia)
+git init: Serve para criar um novo repositório no Git, ou reiniciar um já existente
+
+git config --global user.name: Serve para fazer o login através do nome do usúario 
+
+git config --global user.email: Serve para o login através do e-mail do usúario 
+
+git remote add origin : Serve para adicionar o origin pra um repositório
+
+git status: Serve para exibir e verifacar o estado atual dos arquivos
+
+git log: Serve para exibir os registros em ordem cronológica 
+
+git add: Serve para adicionar um arquivo
+ 
+git commit : Serve para salvar mudanças feitas no repositório
+
+git push: Serve para realizar o envio de mudanças locais para um repositório central
+
+Faça o push enviando os commit's
